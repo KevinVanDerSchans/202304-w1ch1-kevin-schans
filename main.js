@@ -103,7 +103,7 @@ const clickSixthButton = (event) => {
   };
 sixthButton.addEventListener("click", clickSixthButton);
 
- const startGame = () => {
+const startGame = () => {
 
  };
  startGame();
